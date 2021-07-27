@@ -1,2 +1,3 @@
-# Advaced-ML
-The material of machine learning and some solution of the task.
+# Advaced Machine Learning
+
+Record the materials in class and task documents and answers.
